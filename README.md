@@ -1,1 +1,0 @@
-# nagyzsomborlajo.github.io
