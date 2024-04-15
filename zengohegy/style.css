@@ -1,0 +1,32 @@
+body{
+    background-color: forestgreen;
+    
+}
+#content{
+    width: 888px;
+    background-color: bisque;
+    margin-left: 370px;
+}
+#imageright{
+	margin-left: 20px;
+    
+}
+#imageleft{
+	margin-right: 40px; ;
+    margin-bottom: 80px;
+    
+
+    
+}
+.kepszoveg{
+	font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+h1{
+    color:forestgreen ;
+    text-transform: uppercase;
+}
+li{
+    text-align: justify;
+}
