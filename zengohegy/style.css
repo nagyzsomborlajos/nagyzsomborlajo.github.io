@@ -41,6 +41,7 @@ max-width: 888px;
 	font-weight: bold;
     font-style: italic;
     text-align: center;
+	background-color: burlywood;
 }
 a{
     text-decoration: none;
